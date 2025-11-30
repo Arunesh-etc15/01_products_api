@@ -1,4 +1,6 @@
-FROM openjdk:17
+//FROM openjdk:17
+FROM eclipse-temurin:17
+
 
 MAINTAINER <Ashok Bollepalli>
 
